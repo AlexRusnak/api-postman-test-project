@@ -20,4 +20,5 @@ The Postman collection is organized into different requests, each representing a
 
 1. Import the Postman collection into your Postman app.
 2. Set up the necessary environment variables (base URL, API key, token).
-3. Run the requests individually or execute the entire collection.
+3. Execute the entire collection as a set to ensure end-to-end functionality.
+4. Customize collection variables as needed.
